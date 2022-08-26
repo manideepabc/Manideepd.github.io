@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Electrical Engineering, Indian Institute of Technology, Kanpur, August 2010
-* M.S. in Electrical Engineering, Stanford University, June 2013
-* Ph.D in Electrical Engineering, Stanford University, June 2016
+* B.Tech + M.Tech (Dul degree) in Electrical Engineering, Indian Institute of Technology, Madras, July 2018
+* Ph.D in Electrical Engineering, Stanford University, August 2023 (Expected)
 
 Work experience
 ======
