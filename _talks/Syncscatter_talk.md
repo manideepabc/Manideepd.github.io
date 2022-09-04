@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/Syncscatter_talk
 link: "https://youtu.be/rSAl6jbC5_w"
-date: 2021-01-14
+date: 2021-04-14
 venue: 'NSDI 2021'
 citation: ''
 location: "Santa Clara, USA"

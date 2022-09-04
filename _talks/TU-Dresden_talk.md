@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/TU-Dresden_talk
 link: "https://cfaed.tu-dresden.de/upcoming-events/transforming-communication-using-backscatter"
-date: 2022-09-06
+date: 2022-06-09
 venue: 'TU Dresden'
 citation: ' '
 location: "Germany"
