@@ -74,11 +74,11 @@ social:
 
 # Analytics
 analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : "google" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
-    tracking_id          : 
+    tracking_id          : G-D2VVPD3Y2T
   goatcounter:
-    code		 : dineshb-ucsd
+    code		 : 
 
 
 # Site Author
