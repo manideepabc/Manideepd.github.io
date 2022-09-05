@@ -76,7 +76,7 @@ social:
 analytics:
   provider               : "custom" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
-    tracking_id          : "G-D2VVPD3Y2T"
+    tracking_id          : "UA-240142731-1"
 
 
 # Site Author
