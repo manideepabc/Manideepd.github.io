@@ -74,11 +74,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : "custom" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
-    tracking_id          : G-D2VVPD3Y2T
-  goatcounter:
-    code		 : 
+    tracking_id          : "G-D2VVPD3Y2T"
 
 
 # Site Author
