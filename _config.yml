@@ -76,19 +76,20 @@ social:
 analytics:
   provider               : "custom" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
-    tracking_id          : "UA-240142731-1"
+    tracking_id          : "G-8MJ2040PX3"
 
 
 # Site Author
 author:
   name             : "Manideep Dunna"
   avatar           : "ManideepDunna.jpg"
-  bio              : "Ph.D. Candidate"
+  bio              : "Ph.D. Candidate in ECE <br>
+                      at UC San Diego"
   location         : "San Diego, CA"
   employer         :
   dblp             : "https://dblp.org/pid/264/3549.html"
   googlescholar    : "https://scholar.google.com/citations?user=ppc-YCoAAAAJ&hl=en&authuser=1"
-  email            : 
+  email            : "mdunna [at] ucsd [dot] edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,17 +101,17 @@ author:
   github           : "manideepabc/" 
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "manideep-dunna"
   orcid            : "https://orcid.org/0000-0003-0881-3025"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ManideepDu"
+  twitter          : #"ManideepDu"
   vine             :
   weibo            :
   xing             :
